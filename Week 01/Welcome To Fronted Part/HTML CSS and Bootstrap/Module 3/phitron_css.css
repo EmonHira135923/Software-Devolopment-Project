@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+    flex-direction: column;
+}
+
+
+
