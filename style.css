@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.mylogo {
+  height: 50px;
+  width: 50px;
+}
+
+.skill-text {
+  padding: 15px;
+}
+
+kbd {
+  margin: 3px;
+  padding: 5px 10px;
+  display: inline-block;
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
+  .skill-text {
+    text-align: center;
+  }
+
+  .card {
+    width: 100% !important;
+  }
+}
